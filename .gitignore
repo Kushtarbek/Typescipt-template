@@ -1,0 +1,8 @@
+node_modules
+build
+.DS_Store
+yarn.lock
+package-lock.json
+
+#wierd error log from Huseyin :D 
+er.current = user
